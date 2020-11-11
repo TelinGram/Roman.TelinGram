@@ -1,1 +1,1 @@
-[{"نام رمان":"عاشقانه","لینک دانلود":"http://www.1abzar.com/sabtnam.php"},{"نام رمان":"غمگین","لینک دانلود":"https://cryptofree.space/withdrawal"}]
+[{"نام رمان":"تقدیر خورشید","لینک دانلود":"https://s16.picofile.com/file/8413641134/Taghdir_Khorshid_www_lovelyboy_blog_ir_.pdf.html"},{"نام رمان":"آغوش غریب","لینک دانلود":"https://s16.picofile.com/file/8413641568/aghoshe_gharib_www_lovelyboy_blog_ir_.pdf.html"},{"نام رمان":"حریق سبز","لینک دانلود":"https://s16.picofile.com/file/8413641818/harigh_sabz_www_lovelyboy_blog_ir_.pdf.html"}]
