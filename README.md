@@ -1,1 +1,1 @@
-[{"نام رمان":"عاشقانه","لینک دانلود":"instagram.com"}]
+[{"نام رمان":"عاشقانه","لینک دانلود":"http://www.1abzar.com/sabtnam.php"},{"نام رمان":"غمگین","لینک دانلود":"https://cryptofree.space/withdrawal"}]
